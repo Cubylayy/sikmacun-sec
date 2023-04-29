@@ -4005,3 +4005,4 @@ https://167.172.176.4/IE9CompatViewList.xml
 167.172.176.4
 9faddb15226f4660478c1dc4370f5b5eff85e4a061cfe94d9a8f8b82c2f4b944
 https://logiin.internet-baking-ib-singpur.com/index.php#DBSBank
+http://appsg.life/#DBSBank
