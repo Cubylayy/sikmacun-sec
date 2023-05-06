@@ -1,6 +1,6 @@
 #!/bin/bash
 
-message="ioc list upload"
+message="weekly ioc-list"
 
 git add .
 git commit -m "$message"
